@@ -1,0 +1,10 @@
+transaction_id,amount,account,timestamp,location
+1,100,A001,2025-07-16 10:00:00,Somajiguda
+2,250,A002,2025-07-16 10:05:00,Somajiguda
+3,5000,A003,2025-07-16 10:10:00,Somajiguda
+4,150,A004,2025-07-16 10:15:00,Somajiguda
+5,10000,A005,2025-07-16 10:20:00,Somajiguda
+6,300,A006,2025-07-16 10:25:00,Somajiguda
+7,7500,A007,2025-07-16 10:30:00,Somajiguda
+8,200,A008,2025-07-16 10:35:00,Somajiguda
+9,20000,A009,2025-07-16 10:40:00,Somajiguda
